@@ -1,2 +1,1 @@
-Bonjour!
-Hi world!
+26 Novembre 2004
